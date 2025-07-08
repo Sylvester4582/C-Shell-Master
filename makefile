@@ -1,0 +1,2 @@
+a.out: main.c hop.c reveal.c shell.c seek.c tokenize.c log.c proclore.c command.c global.c activities.c neonate.c syscall.c ping.c bg.c fg.c signal.c iMan.c
+	gcc -g main.c hop.c reveal.c shell.c seek.c tokenize.c log.c proclore.c command.c global.c activities.c neonate.c syscall.c ping.c bg.c fg.c signal.c iMan.c

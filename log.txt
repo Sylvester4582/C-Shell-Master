@@ -1,0 +1,15 @@
+proclore 14247
+proclore 14249
+ hop 
+hop
+hi
+pwd
+proclore
+sleep 5
+sleep 1
+sleep 100 &
+activities
+ping 36926 19
+activities
+	quit
+exit
